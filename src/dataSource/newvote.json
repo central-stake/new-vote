@@ -1,0 +1,111 @@
+[
+  {
+    "campaignId": 1,
+    "campaignName": "Élections  fédérales 2024",
+    "rating": 2.8,
+    "campaignImage": "http://dummyimage.com/154x129.png/dddddd/000000",
+    "campaignSpecialty": "Family Meals , Indian , Bakery",
+    "streetAddress": "831 Dapin Avenue",
+    "postalCode": "V2N 0J2",
+    "deliveryFee": 7.4,
+    "deliveryTime": 10,
+    "city": "Ottawa",
+    "province": "ON",
+    "address": "831 Dapin Avenue, Ottawa, ON V2N 0J2",
+    "freeDelivery": false,
+    "isCustomerFavourite": false,
+    "party": [
+      {
+        "name": "N-VA",
+        "credit": 0,
+        "category": "Droite",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.bmp/5fa2dd/ffffff"
+      },
+      {
+        "name": "CD&V",
+        "credit": 0,
+        "category": "Centre-Droite",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.jpg/dddddd/000000"
+      },
+      {
+        "name": "Open VLD",
+        "credit": 0,
+        "category": "Centre-Droit",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.png/ff4444/ffffff"
+      },
+      {
+        "name": "Groen",
+        "credit": 0,
+        "category": "Centre-Gauche",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.jpg/5fa2dd/ffffff"
+      },
+      {
+        "name": "VB",
+        "credit": 0,
+        "category": "Extrême-Droite",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.jpg/dddddd/000000"
+      },
+      {
+        "name": "PS",
+        "credit": 0,
+        "category": "Gauche",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.png/ff4444/ffffff"
+      },
+      {
+        "name": "MR",
+        "credit": 0,
+        "category": "Droite",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.bmp/ff4444/ffffff"
+      },
+      {
+        "name": "Vooruit",
+        "credit": 0,
+        "category": "Gauche",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.png/5fa2dd/ffffff"
+      },
+      {
+        "name": "PTB",
+        "credit": 0,
+        "category": "Extrême-Gauche",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.png/cc0000/ffffff"
+      },
+      {
+        "name": "Ecolo",
+        "credit": 0,
+        "category": "Gauche",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.png/cc0000/ffffff"
+      },
+      {
+        "name": "Les Engagés",
+        "credit": 0,
+        "category": "Centre-Droit",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.bmp/dddddd/000000"
+      },
+      {
+        "name": "DéFI",
+        "credit": 0,
+        "category": "Centre",
+        "isSoldOut": "false",
+        "image": "http://dummyimage.com/150x150.bmp/5fa2dd/ffffff"
+      },
+      {
+        "name": "Union des francophones",
+        "credit": 0,
+        "category": "Droite",
+        "isSoldOut": "true",
+        "image": "http://dummyimage.com/150x150.jpg/5fa2dd/ffffff"
+      }
+    ]
+  }
+]
